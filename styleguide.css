@@ -1,0 +1,16 @@
+:root { 
+  --bizarre: #eee9da;
+  --black: #000000;
+ 
+  --font-size-m: 40px;
+  --font-size-s: 16px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-bold-bizarre-40px {
+  color: var(--bizarre);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
